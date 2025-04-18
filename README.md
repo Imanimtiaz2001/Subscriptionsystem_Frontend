@@ -75,18 +75,6 @@ For detailed information on backend APIs, refer to the backend [documentation](h
 - **Frontend Testing**: Manual testing of the UI components on Android and iOS devices.
 - **API Communication**: Ensure all API calls (login, registration, subscription, profile) work as expected.
 
-## Deployment
-For deployment, follow the steps mentioned in the [Backend Deployment](https://github.com/ImanImtiaz2001/Eliteit_backend#deployment) section to deploy the backend. Once the backend is deployed, update the API endpoints in the Flutter app to the live backend URL.
-
-## Contributions
-Feel free to contribute by:
-1. Forking the repository
-2. Making changes or adding features
-3. Creating a pull request
-
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Acknowledgments
 - **Flutter**: For creating an amazing cross-platform framework.
 - **JWT Authentication**: For secure authentication management.
